@@ -1,5 +1,7 @@
 #Reference for converting speech to text
 #Thepythoncode.com. 2021. How to Convert Speech to Text in Python - Python Code. [online] Available at: <https://www.thepythoncode.com/article/using-speech-recognition-to-convert-speech-to-text-python> [Accessed 11 September 2021].
+#Reference for sample audio file
+#Voiptroubleshooter.com. 2021. [online] Available at: <http://www.voiptroubleshooter.com/open_speech/american/OSR_us_000_0010_8k.wav> [Accessed 12 September 2021].
 import speech_recognition as sr
 filename = "OSR_us_000_0010_8k.wav"
 # initialize the recognizer
